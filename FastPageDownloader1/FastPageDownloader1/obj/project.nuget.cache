@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "leSCv84CK0pVXpE+tjmO9jWV1llwF9qOeHt7rUjXCbK7A6aesEAOAPFRSVyMibAJPo8iTutrqLuILfK9hAChPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\FastPageDownloader1\\FastPageDownloader1\\FastPageDownloader1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\anglesharp\\1.3.0\\anglesharp.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
